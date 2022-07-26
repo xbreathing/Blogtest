@@ -36,6 +36,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 function gohome(){
   router.push('/about')
+  alert('hellow!')
   
 }
 
